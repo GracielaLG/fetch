@@ -1,24 +1,22 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Maria Graciela Romero Leguizamon",
+    "cvTitle":"nada",
+    "cvDescription":"nada",
     "social":[
-        {"name":"", "link":""}
+        {"name":"Git", "link":"https://github.com/GracielaLG/"}
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Dev", "institution":"ADA ITW", "endYear":"2019", "description":"bla bla"}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"Ingles", "level":"Advance"}
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+        {"title":"Nada", "sutitle":"nada", "excerpt":"nadita", "text":"bla bla", "images":""},
+        {"title":"Nada mas", "sutitle":"nada que ver", "excerpt":"nadita 2", "text":"bLA bla", "images":""}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"48275418",
+        "email":"mgrlee@hotmail.com"
     }
 }
